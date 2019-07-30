@@ -1,0 +1,41 @@
+.titulo {
+    color: rgba(255, 255, 255, 0.65);
+    font-size: 3em;
+    max-width: 480px;
+    text-align: center;
+    margin: 125px auto auto auto;
+}
+
+.subTitulo{
+	color: rgba(255, 255, 255, 0.65);
+}
+
+.btnHome {
+    width: 150px;
+    height: 50px;
+}
+
+.divHome {
+    /* background: #D0E4F5 url("https://i.imgur.com/iINN1il.jpg") repeat scroll 50% 50%; */
+    background:url("../../imgs/esports.jpg") repeat scroll 50% 90%;
+	
+}
+
+.colFeatures {
+    width: 250px;
+    text-align: center;
+    margin: auto;
+}
+
+.btnCriar{
+	margin-bottom:50px;
+}
+.divLogin {
+    margin-left: 25%!important;
+    background: #FFFF;
+}
+
+.loginTitle {
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
